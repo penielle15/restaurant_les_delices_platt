@@ -29,11 +29,6 @@ session_start();
   <div class="col-auto">
     <button type="submit" class="btn btn-primary mb-3" name="validateur">Valider</button>
   </div>
-
-
-
-
-
     </form>
 
 
@@ -71,7 +66,6 @@ if (isset($_POST["validateur"])) {
     }else{
         echo("vos information ont été mal saisir") ;
     }
-    # code...
 }
 ?>
 
