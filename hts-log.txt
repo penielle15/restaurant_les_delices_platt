@@ -1,0 +1,14 @@
+HTTrack3.49-2+htsswf+htsjava launched on Mon, 22 Jan 2024 16:43:27 at https://khaddo.learnhunter.xyz/category_product.html +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F  -%F  -%l "fr, en, *" https://khaddo.learnhunter.xyz/category_product.html -O1 "E:\new\food" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+16:44:07	Error: 	"Not Found" (404) at link https://khaddo.learnhunter.xyz/cat-by-product.html (from https://khaddo.learnhunter.xyz/category_product.html)
+16:44:12	Error: 	"Not Found" (404) at link https://khaddo.learnhunter.xyz/css/owl.video.play.png (from https://khaddo.learnhunter.xyz/css/owl.carousel.min.css)
+16:44:12	Error: 	"Not Found" (404) at link https://khaddo.learnhunter.xyz/category_product (from https://khaddo.learnhunter.xyz/index.html)
+
+HTTrack Website Copier/3.49-2 mirror complete in 45 seconds : 140 links scanned, 136 files written (29019125 bytes overall) [25936869 bytes received at 576374 bytes/sec], 4573587 bytes transferred using HTTP compression in 49 files, ratio 31%, 17.5 requests per connection
+(3 errors, 0 warnings, 0 messages)
